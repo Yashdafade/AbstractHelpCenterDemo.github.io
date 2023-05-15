@@ -78,7 +78,8 @@ header .si-btn{
     border-radius: 6px ;
     border-color: black;
     background-color:white;
-    width: 500px;
+    width: 560px;
+    padding-right: 10px;
     height: 50px;
     text-align: center;
     display: flex;
